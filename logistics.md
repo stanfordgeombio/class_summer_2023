@@ -8,22 +8,18 @@ Please contact us on the staff mailing list with any questions: ee274-aut2223-st
 making a private post on ED for registered students.
 
 ## Course Staff
-- **Kedar Tatwawadi** 
-    - Research Scientist at WaveOne, Inc.
-    - kedart [AT] stanford [DOT] edu
+- **Pranav Vyas** 
+    - Graduate student | Prakash Lab | Stanford
+    - vpranav [AT] stanford [DOT] edu
     - **Office hours:** `Thursdays 6:00-7:00pm, STLC 118`
-- **Shubham Chandak** 
-    - Applied Scientist at Amazon Web Services
-    - schandak [AT] stanford [DOT] edu
+- **Vishal Patil** 
+    - Postdoctoral researcher | Prakash Lab | Stanford
+    - vppatil [AT] stanford [DOT] edu
     - **Office hours:** `Tuesdays 6:00-7:00pm, STLC 118`
-- **Prof. Tsachy Weissman** 
-    - Electrical Engineering, Stanford
-    - tsachy [AT] stanford [DOT] edu
+- **Prof. Manu Prakash** 
+    - Bioengineering | Stanford
+    - manup [AT] stanford [DOT] edu
     - **Office hours:** `Fridays 1:00-2:00pm, On Zoom`. Link available on pinned [ED](https://edstem.org/us/courses/29704/discussion/1909607) post.
-- **Pulkit Tandon**
-  - Electrial Engineering, Stanford
-  - tpulkit [AT] stanford [DOT] edu
-  - **Office hours:** `Wednesdays 11:00am-12:30pm, Packard 106`
 
 
 ## Lectures

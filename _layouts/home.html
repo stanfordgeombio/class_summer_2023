@@ -49,8 +49,8 @@ layout: default
 
         <div style="width:35%; float: left">
             <div class="profile-pic-gallary ">
-                <h2>Teaching Assistants</h2>
-                {% for ta in site.data.people.teaching_assistants %}
+                <h2>Mentor</h2>
+                {% for ta in site.data.people.mentor %}
                 <div class="image--cover-container">
                     <img src="{{ta.profile_pic | prepend: site.baseurl }}" class="image--cover">
                     {% if ta.webpage %}
